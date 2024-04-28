@@ -1,7 +1,5 @@
 ### Hello!
 
-I'm Garrett and I've been building web stuff since I was 10. It became a serious hobby over 15 years ago and I've built plenty of cool things to share with others. I've also been doing web development professionally for over 8 years now. If that wasn't enough, I recently started up my own thing at [Nothing Special](https://nothingspecial.io)
+I'm Garrett and I've been building web stuff since I was 10. It became a serious hobby in 2009 and I've learned a lot about planning, building, releasing, and supporting professional-grade software with thousands of users since then. In 2016, I turned my hobby into a career, developing software solutions for the healthcare industry as a senior software engineer. Recently, I've started up my own thing and have big plans for the future.
 
-I love everything about web development: Gathering requirements, building products, setting up CI/CD pipelines, configuring servers, etc. It's so much fun taking an idea, making it a reality, and sharing it with others. I specialize in building web apps for obscure, underpowered, not-well-documented platforms like webOS, Firefox OS, and currently KaiOS. Building for those kinds of platforms adds a whole nother layer of complexity and challenge, which just adds to the fun.
-
-Feel free to take a look around!
+You can find all of my recent and best work over at [Nothing Special](https://github.com/NothingSpecialDev).
